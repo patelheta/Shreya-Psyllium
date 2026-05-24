@@ -307,13 +307,13 @@ export default function App() {
               className="relative overflow-hidden rounded-[2.25rem] shadow-soft"
             >
               <img
-                src="/src/assets/Untitled 24.png"
+                src="/about-company-1.png"
                 alt="Modern manufacturing facility exterior"
                 className="h-full min-h-[560px] w-full object-cover"
               />
 
               <img
-                src="/src/assets/Untitled 22.png"
+                src="/about-company-2.png"
                 alt="Modern manufacturing facility exterior"
                 className="h-full min-h-[560px] w-full object-cover"
               />
